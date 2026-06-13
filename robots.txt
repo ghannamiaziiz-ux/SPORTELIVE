@@ -1,0 +1,11 @@
+# SPORT بث — كأس العالم 2026
+# robots.txt
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://USERNAME.github.io/sportbath/sitemap.xml
+
+# Crawl-delay (optional — be gentle with bots)
+Crawl-delay: 1
