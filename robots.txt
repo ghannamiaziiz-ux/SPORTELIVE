@@ -5,7 +5,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://USERNAME.github.io/sportbath/sitemap.xml
+Sitemap: https://ghannamiaziiz-ux.github.io/SPORTELIVE/sitemap.xml
 
-# Crawl-delay (optional — be gentle with bots)
+# Crawl-delay
 Crawl-delay: 1
